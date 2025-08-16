@@ -163,6 +163,4 @@ public class RegisterServlet extends HttpServlet {
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📧 Contact
-Your Name - [samertechnologies@gmail.com](mailto:samertechnologies@gmail.com)
-Project Link: [https://github.com/smash-19/job-folio](https://github.com/smash-19/job-folio)
+
